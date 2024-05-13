@@ -1,0 +1,9 @@
+img {
+height: 400px;    
+width: 800px;
+}
+
+.centrovka {
+    display: flex;
+    justify-content: center;
+}
