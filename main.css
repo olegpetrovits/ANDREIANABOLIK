@@ -7,7 +7,17 @@ width: 800px;
     display: flex;
     justify-content: center;
     font-size: 40px;
+    color: white;
 }
 .uvelichit {
 font-size: 20px;
+color: white;
+opacity: 70;
+}
+
+body {
+ background-color: #191919;
+}
+.beliy {
+color: white;
 }
