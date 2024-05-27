@@ -1,0 +1,33 @@
+.mainblock {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+
+p{
+    color: white;
+    opacity: 70%;
+    font-size: 24px;
+}
+
+body {
+    background-color: #191919; 
+    margin: 50px;}
+
+
+h2 {
+    color: white;
+    font-size: 28px;
+    opacity: 70%;
+    }
+
+h1{
+    color: white;
+    font-size: 60px;
+}
+
+img {
+    margin: 50px;
+}
