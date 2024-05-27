@@ -6,4 +6,8 @@ width: 800px;
 .centrovka {
     display: flex;
     justify-content: center;
+    font-size: 40px;
+}
+.uvelichit {
+font-size: 20px;
 }
