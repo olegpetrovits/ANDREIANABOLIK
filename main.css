@@ -32,3 +32,19 @@ h1{
 img {
     margin: 50px;
 }
+
+th{
+    color: white;
+    opacity: 75%;
+    font-size: 28px;
+}
+td{
+    color: white;
+    opacity: 70%;
+    font-size: 24px;
+}
+
+table{
+    border: 2px;
+    color: white;
+}
