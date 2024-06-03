@@ -2,6 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #191919;
 }
 
 header, footer {
@@ -21,10 +22,7 @@ nav ul li {
     margin-right: 20px;
 }
 
-nav ul li a {
-    color: #333;
-    text-decoration: none;
-}
+
 
 section {
     padding: 20px;
@@ -41,4 +39,26 @@ position: relative;
 
 .aaa p {
     margin-left: 200px;
+}
+p {
+    color: #fff;
+    font-size: 16px;
+    opacity: 70%;
+}
+h1 {
+    color:white;
+    font-size: 34px;
+}
+h2 {
+    color:white;
+    opacity: 75%;
+    font-size: 22px;
+}
+ul {
+    color:white;
+    opacity: 75%;
+}
+
+a {
+    color: white;
 }
